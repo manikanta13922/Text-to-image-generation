@@ -14,13 +14,6 @@ This project is perfect for exploring AI art generation and image synthesis, lev
 - **Bootstrap-based UI**: Simple, responsive interface for a seamless user experience.
 - **Dynamic Image Rendering**: View generated images immediately after submission.
 
-## How It Works
-
-1. **Enter a Prompt**: The user inputs a description of the image they want to generate (e.g., "A vibrant sunset over the city skyline").
-2. **Optional Negative Prompt**: Specify any elements to avoid (e.g., "Avoid including water or cars").
-3. **Generate Image**: The user clicks the **Generate Image** button, and an AI-generated image is displayed.
-4. **Download/Save**: The generated image is saved on the server and can be accessed from the results.
-
 ## Tech Stack
 
 - **Backend**: FastAPI (Python)
