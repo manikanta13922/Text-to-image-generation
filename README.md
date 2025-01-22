@@ -14,19 +14,6 @@ This project is perfect for exploring AI art generation and image synthesis, lev
 - **Bootstrap-based UI**: Simple, responsive interface for a seamless user experience.
 - **Dynamic Image Rendering**: View generated images immediately after submission.
 
-## Demo
-
-You can try a live demo here: [Live Demo Link](https://drive.google.com/file/d/1J9ii61RDtmDEg7qt-e4YrV17q-oKq8EW/view?usp=sharing)  
-
-
-### Screenshots
-
-<img width="1728" alt="Screenshot 2024-09-07 at 01 34 17" src="https://github.com/user-attachments/assets/d5727197-6e52-4b16-91cb-6dc36740ba21">
-
-
-<img width="1728" alt="Screenshot 2024-09-07 at 01 33 57" src="https://github.com/user-attachments/assets/ed3400a3-faa3-498a-a61a-944288833605">
-
-
 ## How It Works
 
 1. **Enter a Prompt**: The user inputs a description of the image they want to generate (e.g., "A vibrant sunset over the city skyline").
@@ -172,11 +159,3 @@ This project is licensed under the MIT License.
 - **FastAPI**: For the simple and powerful web framework.
 - **Bootstrap**: For easy and responsive frontend design.
 
-
-## Contact
-
-For any questions or support, please contact:
-
-- **Name**: Pahirathan Nithilan
-- **Email**: [nithilan32@gmail.com](mailto:nithilan32@gmail.com)
-- **GitHub**: [Pahinithi](https://github.com/Pahinithi)
