@@ -107,19 +107,3 @@ button:hover {
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
-
-/* Footer */
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #f0f0f0;
-    color: #4a4a4a;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    margin-top: auto;
-}
-
-footer p {
-    margin: 0;
-}
