@@ -1,8 +1,8 @@
-# Text-to-Image Generator
+# Text-to-Image
 
 ## Overview
 
-The **Text-to-Image Generator** application allows users to generate AI-driven images based on text prompts. Utilizing FastAPI for the backend and the Stable Diffusion model for image generation, this project provides a user-friendly web interface for creating custom images. It also supports **negative prompts**, which allow users to specify elements they want to exclude from the generated image.
+The **Text-to-Image** application allows users to generate AI-driven images based on text prompts. Utilizing FastAPI for the backend and the Stable Diffusion model for image generation, this project provides a user-friendly web interface for creating custom images. It also supports **negative prompts**, which allow users to specify elements they want to exclude from the generated image.
 
 This project is perfect for exploring AI art generation and image synthesis, leveraging state-of-the-art machine learning models.
 
@@ -48,7 +48,7 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Pahinithi/Text-to-Image-Generation-with-Python-and-Stable-Diffusion-Generative-AI
+   git clone https://github.com/manikanta13922/Text-to-Image-Generation-with-Python-and-Stable-Diffusion-Generative-AI
    cd text-to-image-generator
    ```
 
